@@ -1,0 +1,27 @@
+//reset
+@import '/node_modules/normalize.css/normalize.css';
+
+// primevue
+@import 'primevue/layout.scss';
+
+//variables
+@import 'own/abstracts/variables';
+
+// helpers
+@import 'own/abstracts/functions';
+@import 'own/abstracts/mixins';
+@import 'own/abstracts/extends';
+
+//base
+@import 'own/base/animations';
+@import 'own/base/base';
+@import 'own/base/typography';
+@import 'own/base/utilities';
+@import 'own/base/themes';
+
+//base
+@import 'own/layouts/app';
+@import 'own/layouts/static';
+
+//modules
+@import 'own/modules/auth';
