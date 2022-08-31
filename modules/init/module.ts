@@ -22,7 +22,7 @@ export default defineNuxtModule({
           nuxt.hook('pages:extend', (pages) => {
                pages.push({
                     name: 'init',
-                    path: '/',
+                    path: '/test',
                     file: resolve(__dirname, './pages/index.vue')
                });
           });

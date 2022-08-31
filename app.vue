@@ -1,7 +1,7 @@
 <template>
      <div>
           <Head>
-               <Title>Moving CRM</Title>
+               <Title>Template</Title>
                <Meta name="description" content="Moving CRM" />
           </Head>
           <Body>
